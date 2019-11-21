@@ -1,0 +1,11 @@
+ML Lecture 3-1: Gradient Descent
+https://www.youtube.com/watch?v=yKKNr-QKz2Q&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=6
+
+ML Lecture 3-2: Gradient Descent (Demo by AOE)
+https://www.youtube.com/watch?v=1_HBTJyWgNA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=7
+
+ML Lecture 3-3: Gradient Descent (Demo by Minecraft)
+https://www.youtube.com/watch?v=wzPAInDF_gI&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=8
+
+梯度下降，神經網絡如何學習 l 第二章 深度學習
+https://www.youtube.com/watch?v=IHZwWFHWa-w
